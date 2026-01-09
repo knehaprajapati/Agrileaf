@@ -1,0 +1,192 @@
+{
+    "Apple___Apple_scab": {
+        "treatment": ["Apply fungicides like Captan or Myclobutanil. Prune trees to improve air flow."],
+        "prevention": ["Clear fallen leaves in autumn. Plant resistant varieties."],
+        "link": ["https://en.wikipedia.org/wiki/Apple_scab"]
+    },
+    "Apple___Black_rot": {
+        "treatment": ["Remove dead wood and cankers. Apply lime sulfur or copper fungicides."],
+        "prevention": ["Prune during dormancy. Avoid tree wounds and remove mummified fruit."],
+        "link": ["https://en.wikipedia.org/wiki/Botryosphaeria_obtusa"]
+    },
+    "Apple___Cedar_apple_rust": {
+        "treatment": ["Apply Myclobutanil or protective sulfur sprays early in the spring."],
+        "prevention": ["Remove nearby Red Cedar trees or plant rust-resistant apple trees."],
+        "link": ["https://en.wikipedia.org/wiki/Gymnosporangium_juniperi-virginianae"]
+    },
+    "Apple___healthy": {
+        "treatment": ["None needed. Your tree is healthy!"],
+        "prevention": ["Maintain regular watering and organic fertilization."],
+        "link": ["https://en.wikipedia.org/wiki/Apple"]
+    },
+    "Blueberry___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Keep soil pH between 4.5 and 5.5 for best health."],
+        "link": ["https://en.wikipedia.org/wiki/Blueberry"]
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "treatment": ["Apply sulfur or potassium bicarbonate sprays at the first sign of white spots."],
+        "prevention": ["Increase sunlight penetration by pruning. Avoid nitrogen over-fertilization."],
+        "link": ["https://en.wikipedia.org/wiki/Powdery_mildew"]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Watch for fruit flies and maintain consistent soil moisture."],
+        "link": ["https://en.wikipedia.org/wiki/Cherry"]
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "treatment": ["Apply foliar fungicides like strobilurins or triazoles if infection is severe."],
+        "prevention": ["Practice crop rotation and use resistant hybrids. Manage crop residue."],
+        "link": ["https://en.wikipedia.org/wiki/Gray_leaf_spot"]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "treatment": ["Fungicides are usually only needed for high-value seed corn."],
+        "prevention": ["Plant resistant hybrids. This disease is favored by cool, moist air."],
+        "link": ["https://en.wikipedia.org/wiki/Puccinia_sorghi"]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "treatment": ["Use fungicides if lesions appear before silking. Rotate crops."],
+        "prevention": ["Deep plowing of infected residue. Use resistant corn varieties."],
+        "link": ["https://en.wikipedia.org/wiki/Exserohilum_turcicum"]
+    },
+    "Corn_(maize)___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Maintain proper nitrogen levels and weed control."],
+        "link": ["https://en.wikipedia.org/wiki/Maize"]
+    },
+    "Grape___Black_rot": {
+        "treatment": ["Apply Mancozeb or Myclobutanil fungicides. Remove infected berries."],
+        "prevention": ["Full sun exposure and good drainage. Prune to improve ventilation."],
+        "link": ["https://en.wikipedia.org/wiki/Black_rot_(grape)"]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "treatment": ["No cure once established. Prune out dead wood and protect pruning wounds."],
+        "prevention": ["Avoid water stress. Minimize large pruning cuts in wet weather."],
+        "link": ["https://en.wikipedia.org/wiki/Esca_(grape)"]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "treatment": ["Apply copper-based fungicides after harvest to reduce spores."],
+        "prevention": ["Remove old leaves and vines. Ensure trellis allows for good airflow."],
+        "link": ["https://en.wikipedia.org/wiki/Isariopsis"]
+    },
+    "Grape___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Regular pruning and balanced potassium fertilization."],
+        "link": ["https://en.wikipedia.org/wiki/Grape"]
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "treatment": ["No cure. Remove and destroy infected trees to prevent spread."],
+        "prevention": ["Control Psyllid insects using systemic insecticides. Use certified disease-free nursery stock."],
+        "link": ["https://en.wikipedia.org/wiki/Citrus_greening_disease"]
+    },
+    "Peach___Bacterial_spot": {
+        "treatment": ["Copper sprays can be used but can be toxic to peach leaves; use with caution."],
+        "prevention": ["Avoid high nitrogen levels. Plant resistant peach varieties."],
+        "link": ["https://en.wikipedia.org/wiki/Xanthomonas_campestris_pv._pruni"]
+    },
+    "Peach___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Monitor for borers and maintain a good pruning schedule."],
+        "link": ["https://en.wikipedia.org/wiki/Peach"]
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "treatment": ["Apply copper-based sprays every 7-10 days in wet weather."],
+        "prevention": ["Use pathogen-free seeds. Avoid overhead irrigation."],
+        "link": ["https://en.wikipedia.org/wiki/Bacterial_spot"]
+    },
+    "Pepper,_bell___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Ensure well-draining soil and consistent watering."],
+        "link": ["https://en.wikipedia.org/wiki/Bell_pepper"]
+    },
+    "Potato___Early_blight": {
+        "treatment": ["Use fungicides containing chlorothalonil or mancozeb."],
+        "prevention": ["Avoid overhead watering. Maintain high plant vigor with nitrogen."],
+        "link": ["https://en.wikipedia.org/wiki/Alternaria_solani"]
+    },
+    "Potato___Late_blight": {
+        "treatment": ["Apply copper fungicides immediately. Destroy infected tubers."],
+        "prevention": ["Plant resistant cultivars. Do not leave cull piles in the field."],
+        "link": ["https://en.wikipedia.org/wiki/Phytophthora_infestans"]
+    },
+    "Potato___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Rotate with non-solanaceous crops every 3 years."],
+        "link": ["https://en.wikipedia.org/wiki/Potato"]
+    },
+    "Raspberry___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Prune old canes annually and keep the patch weed-free."],
+        "link": ["https://en.wikipedia.org/wiki/Raspberry"]
+    },
+    "Soybean___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Scout for beetles and maintain balanced P and K levels."],
+        "link": ["https://en.wikipedia.org/wiki/Soybean"]
+    },
+    "Squash___Powdery_mildew": {
+        "treatment": ["Apply horticultural oils or sulfur-based fungicides."],
+        "prevention": ["Provide adequate spacing for airflow. Water at the base, not leaves."],
+        "link": ["https://en.wikipedia.org/wiki/Powdery_mildew"]
+    },
+    "Strawberry___Leaf_scorch": {
+        "treatment": ["Remove and destroy old infected leaves. Use fungicide if severe."],
+        "prevention": ["Avoid excessive nitrogen in spring. Plant in full sun with good drainage."],
+        "link": ["https://en.wikipedia.org/wiki/Diplocarpon_earlianum"]
+    },
+    "Strawberry___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Mulch with straw to keep berries off the soil."],
+        "link": ["https://en.wikipedia.org/wiki/Strawberry"]
+    },
+    "Tomato___Bacterial_spot": {
+        "treatment": ["Use copper-based bactericides. Remove infected lower leaves."],
+        "prevention": ["Use certified seeds. Rotate crops and avoid working in wet plants."],
+        "link": ["https://en.wikipedia.org/wiki/Bacterial_spot"]
+    },
+    "Tomato___Early_blight": {
+        "treatment": ["Prune lower leaves to prevent soil splash. Use Mancozeb fungicides."],
+        "prevention": ["Mulch around plants. Practice 3-year crop rotation."],
+        "link": ["https://en.wikipedia.org/wiki/Alternaria_solani"]
+    },
+    "Tomato___Late_blight": {
+        "treatment": ["Remove and bag infected plants. Apply chlorothalonil immediately."],
+        "prevention": ["Do not compost infected plants. Use blight-resistant varieties."],
+        "link": ["https://en.wikipedia.org/wiki/Phytophthora_infestans"]
+    },
+    "Tomato___Leaf_Mold": {
+        "treatment": ["Apply calcium chloride sprays or fungicides. Increase greenhouse ventilation."],
+        "prevention": ["Keep humidity below 85%. Space plants widely for air circulation."],
+        "link": ["https://en.wikipedia.org/wiki/Passalora_fulva"]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "treatment": ["Remove infected leaves. Apply fungicides like Copper or Mancozeb."],
+        "prevention": ["Keep foliage dry. Eliminate weeds like Nightshade around the garden."],
+        "link": ["https://en.wikipedia.org/wiki/Septoria_lycopersici"]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "treatment": ["Spray with insecticidal soap or Neem oil. Increase humidity."],
+        "prevention": ["Avoid dusty conditions. Do not over-use nitrogen fertilizers."],
+        "link": ["https://en.wikipedia.org/wiki/Tetranychus_urticae"]
+    },
+    "Tomato___Target_Spot": {
+        "treatment": ["Apply fungicides containing azoxystrobin. Remove infected debris."],
+        "prevention": ["Improve airflow and keep foliage dry. Use crop rotation."],
+        "link": ["https://en.wikipedia.org/wiki/Corynespora_cassiicola"]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "treatment": ["No cure. Pull out infected plants and control Whiteflies."],
+        "prevention": ["Use yellow sticky traps for Whiteflies. Plant resistant hybrids."],
+        "link": ["https://en.wikipedia.org/wiki/Tomato_yellow_leaf_curl_virus"]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "treatment": ["No cure. Destroy infected plants. Disinfect tools after use."],
+        "prevention": ["Do not smoke near plants (tobacco carries virus). Use certified seeds."],
+        "link": ["https://en.wikipedia.org/wiki/Tobacco_mosaic_virus"]
+    },
+    "Tomato___healthy": {
+        "treatment": ["None needed."],
+        "prevention": ["Consistent watering to prevent blossom end rot."],
+        "link": ["https://en.wikipedia.org/wiki/Tomato"]
+    }
+}
